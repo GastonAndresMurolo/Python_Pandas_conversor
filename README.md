@@ -8,3 +8,5 @@ la siguiente instruccion:
 ----
 pip install -r requirments.txt
 ----
+Una vez hecho esto ejecutar en el cmd el programa
+convertir_a_pulgadas.py
